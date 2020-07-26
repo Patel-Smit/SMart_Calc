@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/option_sin"
+        android:title="sin" />
+
+    <item
+        android:id="@+id/option_cos"
+        android:title="cos" />
+    <item
+        android:id="@+id/option_tan"
+        android:title="tan" />
+
+</menu>
